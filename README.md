@@ -4,6 +4,14 @@
 
 A fintech hackathon prototype combining employer payroll oversight, worker earnings, and up to three daily payout requests with the existing Cadence payment engine.
 
+## Hackathon submission video
+
+**[Watch or download the full submission video](https://github.com/dktrn9ne/cadence-on-rho/raw/refs/heads/main/assets/cadence-on-rho-submission.mp4)** · 3 minutes 19 seconds · 1080p
+
+The final cut combines the narrated Cadence on Rho intro with the Loom walkthrough. It demonstrates the employer workspace, worker earnings, payout review, daily request limit, and recovery flow. Demo settlements are simulated; Rho USD payout execution is not connected.
+
+[![Cadence on Rho demo preview](assets/demo-overview.png)](https://github.com/dktrn9ne/cadence-on-rho/raw/refs/heads/main/assets/cadence-on-rho-submission.mp4)
+
 ## Run the demo
 
 Requires Node.js 22.12+ and npm.
@@ -33,11 +41,12 @@ Bank USD and wallet RLUSD are separate. No conversion is connected. The prototyp
 
 ## Demo assets
 
+- [Final submission video — intro + Loom walkthrough](assets/cadence-on-rho-submission.mp4)
 - [Narrated 31-second intro](assets/cadence-on-rho-intro.mp4)
 - [Starting scenario screenshot](assets/demo-overview.png)
 - [Narration script](assets/narration-script.txt)
 
-The intro was created with [Bravado](https://github.com/dktrn9ne/Bravado); narration is a synthetic stock voice. Record the live walkthrough in Loom and add its link to your submission.
+The intro was created with [Bravado](https://github.com/dktrn9ne/Bravado); narration is a synthetic stock voice. The full submission video above includes the recorded Loom walkthrough. The event asks for a Loom link; upload this final cut to Loom and use that share URL in the submission form.
 
 ## Walkthrough and verification
 
